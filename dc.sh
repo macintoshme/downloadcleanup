@@ -3,7 +3,7 @@
 #Downloads cleanup
 #Morgan Hoffman 2015
 
-#It would be nice if I could tell what distro you were on to see what to run. I could also have it setup the chron job
+#It would be nice if I could tell what distro you were on to see what to run. I could also have it setup the cron job
 
 #Some Setup
 if [ -d ~/Downloads/!iso ]; then
